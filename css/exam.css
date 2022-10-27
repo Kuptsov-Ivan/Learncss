@@ -1,0 +1,91 @@
+*{
+  margin: 0;
+  font-family: arial, sans-serif;
+}
+ul {
+list-style: none;
+}
+li {
+  display: block;
+  float: left;
+margin-right: 20px;
+margin-top: 15px;
+}
+header {
+  background: #ebe2ca;
+  width: 100%;
+  height: 50px;
+  padding-left: 70%;
+}
+a {
+  text-decoration: none;
+  }
+p {
+  margin-bottom: 15px;
+}
+main {
+  padding-top: 50px;
+  width: 950px;
+  margin: 0 auto;
+
+}
+main div {
+float: left;
+width: 30%;
+padding-right: 3%;
+}
+.first {
+  background-image: url(C:/Users/niobi/Desktop/httml/Exam/img/starter-ico.png);
+  background-repeat: no-repeat;
+}
+.second {
+  background-image: url(C:/Users/niobi/Desktop/httml/Exam/img/awesome-ico.png);
+background-repeat: no-repeat;
+}
+.third {
+  background-image: url(C:/Users/niobi/Desktop/httml/Exam/img/save-ico.png);
+  background-repeat: no-repeat;
+}
+h3 {
+  padding-left: 35px;
+  padding-bottom: 15px;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.bodycolor {
+  background: url(C:/Users/niobi/Desktop/httml/Exam/img/body.png);
+}
+.h3{
+  padding-top: 20px;
+  padding-left: 106.5px;
+  }
+button {
+  float: right;
+}
+img {
+
+
+  border-radius: 15px;
+  width: 171px;
+    height: 88px;
+}
+.img {
+  float: left;
+  width: 15%;
+    height: 88px;
+    padding-right: 15px;
+}
+.picture {
+  padding: 40px;
+  margin: 0 auto;
+}
+.img1 {
+  padding-left: 66.5px;
+}
+footer, .picture {
+  width: 950px;
+  margin: 0 auto;
+}
