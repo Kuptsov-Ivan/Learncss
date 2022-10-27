@@ -32,10 +32,10 @@ li {
   padding-right: 25px;
   }
 .headercolor {
-  background-image: url(img/header.png);
+  background-image: url(../img/header.png);
 }
 .bodycolor {
-  background-image: url(img/body.png);
+  background-image: url(../img/body.png);
 }
 .main {
   float: left;
@@ -53,15 +53,15 @@ h3 {
     font-size: 20px;
 }
 .firsth3::before {
-content: url(img/starter-ico.png);
+content: url(../img/starter-ico.png);
 padding-right: 15px;
 }
 .secondh3::before {
-  content: url(img/awesome-ico.png);
+  content: url(../img/awesome-ico.png);
   padding-right: 15px;
 }
 .thirdh3::before {
-  content: url(img/save-ico.png);
+  content: url(../img/save-ico.png);
   padding-right: 15px;
 }
 .read_next {
